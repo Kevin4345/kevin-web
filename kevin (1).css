@@ -1,0 +1,38 @@
+
+
+ p
+{
+	font-family: "fantasy", serif;
+	font-size: 50px;
+	color:purple;
+	margin-left:500px;
+	padding-top: 120px;
+	
+	
+}
+
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+
+}
+body
+{
+	background-color:orange;
+}
+h1
+{
+font-family: "cursive", serif;
+	font-size: 50px;
+	color:purple;
+	margin-left:500px;
+	padding-top: 120px;	
+}
+.kevo h2
+{
+	text-align:center;
+	color:yellow;
+	float:20px;
+	margin:10px;
+}

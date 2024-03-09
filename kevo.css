@@ -1,0 +1,170 @@
+.body mainpage
+{
+	background-image: url('u.jpg');
+}
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+
+}
+.body
+{
+	background-color:orange;
+}
+
+h1
+{
+font-family: "cursive", serif;
+	font-size: 50px;
+	color:purple;
+	margin-left:500px;
+	padding-top: 120px;	
+}
+
+.test 
+{
+	padding-top:10px;
+	height:400px;
+	float:right;
+	margin-left:390px;
+	padding-right:350;
+	
+}
+
+
+
+.stories
+{
+	color:black;
+	top:0px;
+	width:1200px;
+	height:auto;
+	margin-left:0px;
+	margin-top:0px;
+}
+
+
+.katakana{
+	
+}
+.navbar-brand 
+{
+	padding-right:50px;
+}
+.kn
+{
+	backgroung-color:purple;
+}
+li a:hover
+{
+  background-color: #111;
+}
+.navbar-brand
+{
+	background-color:green;
+	text-align:center;
+
+}
+.active
+{
+	background-color:green;
+	font-size:24px;
+	width:40px;
+}
+ .ch 
+ {
+	margin-bottom:9px;
+ }
+ .kevo
+ {
+	margin-right:80px;
+	margin-bottom:50px;
+	
+ }
+ .kevo h4
+ {
+	 padding-right:40px;
+	 padding-bottom:30px;
+ }
+ .container
+ {
+	 padding-top:30px;
+	 font-size:30px;
+	 color:green;
+ }
+.container h2
+{
+	padding-left:50px;
+	padding-bottom:50px;
+	margin-bottom:20px;
+	float:top;
+	
+}
+.der
+{
+	font-size:20px;
+	
+	background-image:url(kl.jpg)
+	no repeat:2;
+}
+.der img
+{
+	width:700px;
+	margin-left:300px;
+	padding-top:30px;
+}
+h5
+{
+	font-size:20px;
+	color:voilet;
+}
+p
+{
+	color:green;
+}
+.corousel slide
+{
+	color:red;
+	height:10px;
+}
+.carousel-item img
+{
+	position:absolute;
+	top:0;
+	left:0;
+	`min-height:300px;
+
+	
+
+}
+.carousel-item
+{
+	height:300px;
+}
+.njug{
+	background-color:lightgrey;
+	
+}
+.text-center text-lg-start bg-light text-muted
+{
+	background-color:red;
+}
+.kevo img
+{
+	padding-right:550px;
+	
+}
+.nav-link active
+{
+	width:400px;
+}
+.row
+{
+	position:centre;
+
+}
+.container p-4
+{
+	mask-size: 200px;
+}

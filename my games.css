@@ -1,0 +1,44 @@
+body
+{ background-image:url(".jpg");
+  background-repeat:no-repeat;
+  
+  
+  
+}
+.deer
+{
+	height:40px;
+}
+
+.hu
+{
+	color:red;
+	padding-right:400px;
+	text-align:center;
+}
+.se h2
+{
+	font-size:40px;
+	color:maroon;
+	
+}
+.se h1
+{
+	font-size:40px;
+		color:maroon;
+}
+.kevo 
+{
+	padding-top:20px;
+}
+.gf
+{
+	padding-top:500px;
+}
+h4
+{
+	color:blue;
+}
+p{
+	color:blue;
+}
